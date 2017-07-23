@@ -1,0 +1,28 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder Applciation",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadashivakj/FriendFinder.git"
+  },
+  "keywords": [
+    "Friend",
+    "Finder"
+  ],
+  "author": "Sadashiva Kallur'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadashivakj/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/sadashivakj/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "path": "^0.12.7"
+  }
+}
